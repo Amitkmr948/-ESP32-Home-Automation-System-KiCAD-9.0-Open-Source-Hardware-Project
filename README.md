@@ -1,4 +1,4 @@
-# 🏠 ESP32 Home Automation System – KiCAD 9.0 Open Source Hardware Project
+#  ESP32 Home Automation System – KiCAD 9.0 Open Source Hardware Project
 
 4-Channel Home Automation with ESP32 PCB This project is a 4-channel home automation system based on the ESP32, designed to control electrical appliances via Wi-Fi, MQTT, or a mobile app. The custom PCB integrates relays, optoisolated inputs, and an efficient power supply for reliable operation.
 
@@ -18,9 +18,15 @@ This project is suitable for makers, students, and electronics enthusiasts looki
 
 ---
 
-![Top View](relative/or/absolute/path/to/image.png)
-![Bottom View](relative/or/absolute/path/to/image.png)
-![Schematic](relative/or/absolute/path/to/image.png)
+![Top View](https://github.com/Amitkmr948/-ESP32-Home-Automation-System-KiCAD-9.0-Open-Source-Hardware-Project/blob/5dee5d107a835b9f752b7712d13386971414dd22/Docs/Top%20PCB.png)
+
+---
+
+![Bottom View](https://github.com/Amitkmr948/-ESP32-Home-Automation-System-KiCAD-9.0-Open-Source-Hardware-Project/blob/5dee5d107a835b9f752b7712d13386971414dd22/Docs/Back%20PCB.png)
+
+---
+
+![Schematic](https://github.com/Amitkmr948/-ESP32-Home-Automation-System-KiCAD-9.0-Open-Source-Hardware-Project/blob/5dee5d107a835b9f752b7712d13386971414dd22/Docs/Schematic%20diagram.png))
 
 ---
 
